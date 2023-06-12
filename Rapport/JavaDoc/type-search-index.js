@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"gui","l":"Gui"},{"p":"tools","l":"LinkedNode"},{"p":"tree","l":"Node"},{"p":"tree","l":"PrioritySearchTree"},{"p":"tools","l":"SegmentsList"},{"p":"tools","l":"Sort"},{"p":"<Unnamed>","l":"TestApp"},{"p":"windowing","l":"Windowing"},{"p":"windowing","l":"WindowingAlgorithm"}]
